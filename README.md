@@ -13,7 +13,7 @@ Create or edit a `composer.json` file in the root of your SilverStripe project, 
 ```json
 {
     "require": {
-        "heyday/silverstripe-querybuilder": "1.2.*"
+        "heyday/silverstripe-querybuilder": "^1.3.0"
     }
 }
 ```
